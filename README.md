@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://nazmussadat.com">
-    <img align="right" width="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cyberpunk coder" />
+
   </a>
 </div>
 
@@ -8,7 +8,8 @@
 
 <br/>
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<img align="right" width="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cyberpunk coder" />
+
 
 🚩 I'm **Nazmus Sadat**, a Computer Science and Engineering undergraduate at **Khulna University of Engineering & Technology (KUET)** and the founder of an **AI Automation Agency**. I build interactive web experiences, autonomous AI workflows, and scalable full-stack applications—bridging the gap between low-level C/C++ fundamentals and modern AI architectures.
 

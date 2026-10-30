@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://nazmussadat.com">
-
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nazmus+Sadat+%F0%9F%91%8B;AI+Automation+Agency+Founder;Full-Stack+Developer;CSE+Undergrad+%40+KUET" alt="Typing SVG" />
   </a>
 </div>
 

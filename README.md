@@ -4,8 +4,6 @@
   </a>
 </div>
 
-<sub>Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ</sub>
-
 ### ⚡ CSE Undergrad @ KUET | AI Automation Agency Owner | Full-Stack Developer
 
 <br/>
